@@ -1,0 +1,17 @@
+{
+    "lang": "en-us",
+    "name": "Password Manager ",
+    "short_name": "PM",
+    "description": "Password manager that allows you to generate passwords",
+    "start_url": "/",
+    "background_color": "#3d9ae2",
+    "theme_color": "#3d9ae2",
+    "orientation": "any",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/icon.png",
+            "sizes": "512x512"
+        }
+    ]
+}
